@@ -8,3 +8,13 @@ const loop = (x) => {
 }
 
 loop(0)
+
+//find prime factors
+const primeFactors = (num) => {
+
+}
+
+
+
+let arr1 = ["dave", "sam", "adam", "mike"]
+console.log(sort(arr1))

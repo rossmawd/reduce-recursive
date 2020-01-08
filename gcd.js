@@ -9,7 +9,7 @@ var gcd = function (a, b) {
   console.log(`${a} % ${b} equals ${a % b}`)
   return gcd(b, a % b);
 };
-console.log(gcd(3, 8));
+console.log(gcd(12, 8));
 
 
 // 1st: gcd(8,12)
