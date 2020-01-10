@@ -14,7 +14,16 @@ const primeFactors = (num) => {
 
 }
 
+// const range = (low, high) => {
+//   let arr = []
+//   return low === high ? arr : arr[range(low + 1, high)]
+// }
+
+const longestString = (array) => {
+
+}
+
+console.log(range(3, 12))
 
 
 let arr1 = ["dave", "sam", "adam", "mike"]
-console.log(sort(arr1))
